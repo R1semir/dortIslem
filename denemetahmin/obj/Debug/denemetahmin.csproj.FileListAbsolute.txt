@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\denemetahmin\denemetahmin\bin\Debug\denemetahmin.exe.config
+C:\Users\legen\source\repos\denemetahmin\denemetahmin\bin\Debug\denemetahmin.exe
+C:\Users\legen\source\repos\denemetahmin\denemetahmin\bin\Debug\denemetahmin.pdb
+C:\Users\legen\source\repos\denemetahmin\denemetahmin\obj\Debug\denemetahmin.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\denemetahmin\denemetahmin\obj\Debug\denemetahmin.Form1.resources
+C:\Users\legen\source\repos\denemetahmin\denemetahmin\obj\Debug\denemetahmin.Properties.Resources.resources
+C:\Users\legen\source\repos\denemetahmin\denemetahmin\obj\Debug\denemetahmin.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\denemetahmin\denemetahmin\obj\Debug\denemetahmin.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\denemetahmin\denemetahmin\obj\Debug\denemetahmin.exe
+C:\Users\legen\source\repos\denemetahmin\denemetahmin\obj\Debug\denemetahmin.pdb
